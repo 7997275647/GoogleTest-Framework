@@ -1,0 +1,1 @@
+cmake -DCMAKE_TOOLCHAIN_FILE=./cmake/gcc-arm-none-eabi.cmake -DCMAKE_BUILD_TYPE=$1 . && make

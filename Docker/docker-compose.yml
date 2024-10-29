@@ -1,0 +1,6 @@
+services:
+  stm32-build:
+    build: .
+    volumes:
+      - ../:/project_src/
+    working_dir: /project_src

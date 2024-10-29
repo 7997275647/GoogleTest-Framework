@@ -1,0 +1,1 @@
+docker build -t stm32-build:0.0.1 .
