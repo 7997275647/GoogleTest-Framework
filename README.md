@@ -6,7 +6,7 @@ git clone http://gitlab.seleon.de/embedded/stm32-cmake-builds.git
 ```
 
 ## Howo make changes
-1. create a feature branch either on the Gitlab UI or via git
+1. create a feature branch either on the Github UI or via git
 ```
 git checkout -b feature1
 ```
