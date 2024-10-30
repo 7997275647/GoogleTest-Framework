@@ -15,7 +15,7 @@ git checkout -b feature1
 ```
 git push
 ```
-4. create merge request via gitlab UI
+4. create merge request via github UI
 
 
 ## How to build the project
